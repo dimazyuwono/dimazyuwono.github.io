@@ -1,5 +1,7 @@
 _site
 .sass-cache
 .DS_Store
+.ruby-gemset
+.ruby-version
 mediator.sublime-project
 mediator.sublime-workspace
