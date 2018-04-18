@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "###############################################################################\ntask today : \n- change printer names - DONE\n- configure cisco WLC to support bonjour and wireless printing - DONE\n- sent PR for jabra and clicker - DONE\n- complete access door installation DONE\n\ntask today 02/04 :\n- access card announcements - DONE\n- gave AWS access to James for manage route53 - DONE\n- prepare IP Phones and PBX server - DONE\n- terminate phone lines ( need RJ-11 and terminate tool ) - PENDING RJ11 - CRIMPING TOOL\n- install access door software on dana-sage-1 - DONE\n- mount 3rd server ( after lunch ? ) - DONE\n- prepare VPN server ( after lunch ? ) - PENDING INSTALLATION\n\n###############################################################################\ntask today 03 / 04 :\nfrom yesterday :\n\n- grant access to DANA ALICLOUD CDN - DONE\n- cleanup server boxes - DONE\n\ntask today 04/04 :\nfrom yesterday :\n- terminate phone lines ( need RJ-11 and terminate tool ) DONE\n- prepare VPN server ( after lunch ? ) - PENDING INSTALLATION\n\n- continue 3rd server installation, using ubuntu server OS\n- install pbx server and proceed with provision ip phones\n\n- setup fail over configuration on router\n- setup 10 access card for guest\n- setup access card for upcoming employee\n\n\n###############################################################################\ntask today 05/04 :\nfrom yesterday :\n- prepare VPN server ( after lunch ? ) - DONE\n- continue 3rd server installation, using ubuntu server OS - DONE\n- install pbx server and proceed with provision ip phones - DONE\n- setup fail over configuration on router - DONE\n- setup 10 access card for guest - DONE\n- setup access card for upcoming employee - DONE\n\n- configure ip phones to connect to yeastar s50 - DONE\n- configure all ip phones to connect to yeastar s50 - DONE\n- testing telephone lines with pak braja - DONE\n\n\n###############################################################################\ntask today 11/04 :\nfrom yesterday :\n- update calendars configuration for showing event names and calendar availability on outlook\n- \n",
+			"settings":
+			{
+				"buffer_size": 2074,
+				"line_ending": "Unix",
+				"name": "##################################################"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "- konfigurasi router - \n- access card - \n- ip phone - \n- cctv - ",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Unix",
+				"name": "- konfigurasi router -"
+			}
+		},
+		{
+			"contents": "blog ARTICLES\n\nconfigure cisco ip phones\ndownload firmwares\ndownload configuration files\nconfigure yeastar s50\nconfigure tftp server on ip phones\n\n\n",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix",
+				"name": "blog ARTICLES"
+			}
+		},
+		{
+			"contents": "1. 02127937262 - will ring EDIK handset ( located nead UBUD ) only and usable only for EDIK handset making calls\n\n1. 02127938027 - only usable for phonebooth handset for making calls only. inbound calls will not going through\n2. 02127938041 - only usable for phonebooth handset for making calls only. inbound calls will not going through\n3. 02127938058 - only usable for phonebooth handset for making calls only. inbound calls will not going through\n\n1. 02127938005 - will ring all corporate handset ( located nead UBUD ) and usable for corporate handset for making calls\n2. 02127938014 - will ring all corporate handset ( located nead UBUD ) and usable for corporate handset for making calls\n3. 02127938021 - will ring all corporate handset ( located nead UBUD ) and usable for corporate handset for making calls\n\n\n1. 02127937108 - no in use for now\n\n",
+			"settings":
+			{
+				"buffer_size": 852,
+				"line_ending": "Unix",
+				"name": "1. 02127937262 - will ring EDIK handset ( located"
+			}
+		},
+		{
+			"contents": "1 . GA  894 N  07APR CGKPVG HK9  2335   0705    \n2 . GA  895 V  21APR PVGCGK HK9  1005   1525",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix",
+				"name": "1 . GA  894 N  07APR CGKPVG HK9  2335   0705"
+			}
+		},
+		{
+			"file": "/Users/dimas/Documents/aplus deployment notes",
+			"settings":
+			{
+				"buffer_size": 1114,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "URL for JARVIS :"
+			}
+		},
+		{
+			"contents": "\"danaAvian01\" l2tpd \"danaAmazing!\" *\n \"danaAditya01\" l2tpd \"danaAmazing!\" *\n\"danaRandi01\" l2tpd \"danaAmazing!\" *\n\"danaDesu01\" l2tpd \"danaAmazing!\" *\n\"danaDanny01\" l2tpd \"danaAmazing!\" *\n\"danaDimas01\" l2tpd \"danaAmazing!\" *\n\"danaRyan01\" l2tpd \"danaAmazing!\" *\n\"danaFitria01\" l2tpd \"danaAmazing!\" *\n\"danaWardoyo01\" l2tpd \"danaAmazing!\" *\n\"danaBaskara01\" l2tpd \"danaAmazing!\" *\n\"danaKamila01\" l2tpd \"danaAmazing!\" *\n\"danaJeriko01\" l2tpd \"danaAmazing!\" *\n\"danaReza01\" l2tpd \"danaAmazing!\" *\n\"danaCoco01\" l2tpd \"danaAmazing!\" *\n\"danaMurti01\" l2tpd \"danaAmazing!\" *\n\"danaNandi01\" l2tpd \"danaAmazing!\" *\n\"danaHabibi01\" l2tpd \"danaAmazing!\" *",
+			"settings":
+			{
+				"buffer_size": 634,
+				"line_ending": "Unix",
+				"name": "\"danaAvian01\" l2tpd \"danaAmazing!\" *"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"last_filter": "jekyll",
+		"selected_items":
+		[
+			[
+				"jekyll",
+				"Jekyll Utility: Migrate user settings"
+			],
+			[
+				"package controll ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dimas/exercism/blog/mediator"
+	],
+	"file_history":
+	[
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/environments/aws-development",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/environments/development",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/non-ansible/environment-frontend.j2",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/non-ansible/environment-driver.j2",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/non-ansible/environment-consumer.j2",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/non-ansible/hosts",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/non-ansible/gobox-consumer",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/non-ansible/gobox-driver",
+		"/Users/dimas/Documents/Work/ansible_gobox_automation/non-ansible/gobox-frontend",
+		"/Users/dimas/Downloads/cisco_3905/SEPCC8E7149B984.cnf.xml",
+		"/Users/dimas/Downloads/cisco_3905/SEP00BF77706CB2.cnf.xml",
+		"/Users/dimas/Downloads/cisco_3905/dialplan.xml",
+		"/Users/dimas/PT. Aliansi Teknologi Indonesia/IT Systems - IT - Internal/documents/fingerprint-export-update.csv",
+		"/Users/dimas/Documents/Work/BLUEBIRD/BATAM-BACKUP",
+		"/Users/dimas/Documents/MYBB BETA PREP",
+		"/Users/dimas/Downloads/KerbalEngineer-1.1.3.0/README.htm",
+		"/Users/dimas/PT. Aliansi Teknologi Indonesia/IT Systems - IT - Internal/aliyun-credential/dana.operator-20171220160639.csv",
+		"/Users/dimas/dana/repos/openam-community-edition/openam-schema/openam-wsfederation-schema/src/main/java/com/sun/identity/wsfederation/jaxb/xmlsig/impl/X509DataTypeImpl.java",
+		"/Users/dimas/Downloads/google-services.json",
+		"/Users/dimas/PT. Aliansi Teknologi Indonesia/IT Systems - IT - Internal/documents/office365/DC_Import_User_Sample_en.csv",
+		"/Users/dimas/icehouse/repos/grpc-client/node_modules/grpc/deps/grpc/src/core/ext/filters/client_channel/subchannel.c",
+		"/Users/dimas/Downloads/boiling-inferno-8141-announcement-export.json",
+		"/Users/dimas/Downloads/mikrotik-new-config",
+		"/Users/dimas/Downloads/icerouter-backup.backup",
+		"/Users/dimas/Documents/Work/BLUEBIRD/GRID_DATA_10072017/mybb_order_processor/bali_suburb_position_info.csv",
+		"/Users/dimas/Documents/Work/BLUEBIRD/BATAM - REVISED/PBBM SUBURB_POSITION_INFO for iTOP.txt",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/BATAM",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/PADANG",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/CILEGON GEOMETRY",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/PALEMBANG",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/MANADO",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/MAKASSAR",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/CILEGON",
+		"/Users/dimas/Documents/Work/BLUEBIRD/ITOP/ITOP",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSTouchBarItem.h"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"~/.ssh/ansible-rollingdeployment-lb.pem",
+			"\"",
+			"“",
+			"\"",
+			"”",
+			"\"",
+			"contac",
+			"dialT",
+			"auth",
+			"userLoc",
+			"ntp",
+			"</",
+			"id",
+			"push",
+			"$",
+			".",
+			"Rp",
+			".",
+			"Rp",
+			"{\"services\":\n\t{\"mybb_v3_beta\":[{\"addr\":\"gateway.sandbox.push.apple.com:2195\",\n\t\t\t\t\t\t\"cert\":\"/home/bbuser/mybb-app-IH/certs/my-blue-bird-apns-sandbox-cer.pem\",\n\t\t\t\t\t\t\"key\":\"/home/bbuser/mybb-app-IH/certs/my-blue-bird-apns-sandbox-key.pem\",\n\t\t\t\t\t\t\"service\":\"mybb_v3_beta\"}],\n\t\"mybb_v3_production\":[{\"apikey\":\"AIzaSyC16bV8uyHgCxLdHHH2kmOqFT_WtzJveYw\",\n\t\t\t\t\t\t\t\"projectid\":\"mybb_v3_production\",\n\t\t\t\t\t\t\t\"service\":\"mybb_v3_production\"}],\n\t\"mybb_v3_production_2\":[{\"addr\":\"gateway.push.apple.com:2195\",\n\t\t\t\t\t\t\t\t\"cert\":\"/root/mybb-app/certs/Archive/cert.pem\",\n\t\t\t\t\t\t\t\t\"key\":\"/root/mybb-app/certs/Archive/key-noenc.pem\",\n\t\t\t\t\t\t\t\t\"service\":\"mybb_v3_production_2\"},{\"apikey\":\"AIzaSyC16bV8uyHgCxLdHHH2kmOqFT_WtzJveYw\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"projectid\":\"map-for-work-ext-02125484\",\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"service\":\"mybb_v3_production_2\"}]},\n\"code\":\"UNIQUSH_SUCCESS\"}",
+			"push"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1986,
+								1986
+							]
+						],
+						"settings":
+						{
+							"auto_name": "##################################################",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"auto_name": "- konfigurasi router -",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"auto_name": "blog ARTICLES",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1. 02127937262 - will ring EDIK handset ( located",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1 . GA  894 N  07APR CGKPVG HK9  2335   0705",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/dimas/Documents/aplus deployment notes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_name": "URL for JARVIS :",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								634
+							]
+						],
+						"settings":
+						{
+							"auto_name": "\"danaAvian01\" l2tpd \"danaAmazing!\" *",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mediator.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
