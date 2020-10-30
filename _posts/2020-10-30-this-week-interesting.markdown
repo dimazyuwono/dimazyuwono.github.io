@@ -23,7 +23,7 @@ It's been a week since the new AirCon installed and I think we'll move the outdo
 ### Damaged brand-new TV.
 I decide to buy an Android TV ( It's local brand in Indonesia, I think) from an e-commerce an have it send to our place instantly ( within 3 hours ) while we're working on installing the new AirCon. Well the TV does come within 3 hours, and in the evening, I'd deliver it to the folks place by car. Everthing is all good and well until we unbox the TV packaging and we notice the lcd screen already breaks. Damn. I submited an insurance claim but still pending review for approval.
 
-![welp.](/assets/article_images/2020-10-30-this-week-interesting/broken-screen.JPG){:class="img-responsive"}
+![welp.]({{site.github.url}}/assets/article_images/2020-10-30-this-week-interesting/broken-screen.JPG){:class="img-responsive"}
 
 ### Learning ExpressJS.
 So when I decide to take a leave for a week, I'd plan to do some learning on programming for myself. I decide to learn javascript, but I tend to hurry things so i skipped the basic and straight to learning ExpressJS. I even create the [repository](https://github.com/dimazyuwono/js-finance-tracker) for the application I'm currently working on.
