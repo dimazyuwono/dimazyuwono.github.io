@@ -12,7 +12,7 @@ plugins:
 # Site settings
 title: "dimasyuwono"
 description: > # this means to ignore newlines until "email:"
-   Writes. Thoughts. Anything.
+   Notes. Thoughts. Anything.
 
 email: dimazyuwono@gmail.com
 #blog logo
